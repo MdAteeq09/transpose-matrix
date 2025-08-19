@@ -3,7 +3,7 @@
 🚨 **This repository has been archived.**
 
 The code for **Transpose Matrix** has been moved to our main repository:  
-👉 [Array Programs – Transpose Matrix](https://github.com/<your-username>/<main-repo>/tree/main/array/transpose-matrix)
+👉 [Array Programs – Transpose Matrix](https://github.com/MdAteeq09/Java_DSA_Practice/blob/main/Arrays/array.java)
 
 ---
 
